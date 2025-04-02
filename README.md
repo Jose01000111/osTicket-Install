@@ -62,6 +62,10 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
 
     Enter database credentials and set up an admin account.
 
+<p align="center">
+<img src="https://i.imgur.com/cSQfPCU.png" alt="osTicket logo"/>
+</p>
+
     Complete the installation and remove the setup directory for security.
 
 - #### Step 7: Customize osTicket for IT Helpdesk Training
