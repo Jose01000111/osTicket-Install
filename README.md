@@ -12,23 +12,21 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
 - ####  Step 1: Deploy an Azure Virtual Machine
     Open Azure and navigate to Virtual Machines. 
 
-    Create a new Linux (Ubuntu) or Windows Server VM.
+    Create Windows Server VM.
 
     Select a Standard_B2s instance or better.
 
     Enable public IP access for remote connection.
 
-    Choose SSH (Linux) or RDP (Windows) for authentication.
+    Choose RDP (Windows) for authentication.
 
     Deploy the VM and wait for provisioning to complete.
 
 - #### Step 2: Connect to the VM
-    Linux: Use SSH to connect.
-
+ https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
     Windows: Use Remote Desktop (RDP) to log in.
 
 - #### Step 3: Install Required Software Stack
-    Linux: Install Apache, MySQL, and PHP (LAMP stack).
 
     Windows: Install IIS, MySQL, and PHP.
 
@@ -47,7 +45,6 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
     Create a database user with the necessary privileges.
 
 - #### Step 6: Run the osTicket Installer
-    Open a web browser and access http://your-vm-ip/osticket/setup/.
 
     Enter database credentials and set up an admin account.
 
