@@ -26,6 +26,10 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
  
   Use Remote Desktop (RDP) to log in.
 
+<p align="center">
+<img src="https://i.imgur.com/sPQWrFD.png" alt="osTicket logo"/>
+</p>
+
 - #### Step 3: Install Required Software Stack
 
 [osTicket Installation Zipfile](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
