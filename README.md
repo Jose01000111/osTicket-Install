@@ -83,7 +83,8 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
     Install an SSL certificate for secure access.
 
 - #### Step 9: Simulate an IT Support Environment
-    Submit tickets via http://your-vm-ip/osticket/.
+- 
+    Ticket submissions and troubleshooting will be simulated by ChatGPT, providing mock tickets for practice scenarios.
 
     Use the Admin Panel to manage and resolve tickets.
 
