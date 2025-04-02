@@ -66,7 +66,26 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
 <img src="https://i.imgur.com/cSQfPCU.png" alt="osTicket logo"/>
 </p>
 
-    Complete the installation & setup directory for security.
+- #### Essential Terms for Installing osTicket on an Azure VM
+    Azure VM – A virtual computer hosted on Microsoft Azure.
+
+    Windows Server VM – A virtual machine running Windows Server.
+
+    Public IP Access – Allows remote connections to the VM over the internet.
+
+    RDP (Remote Desktop Protocol) – A method to remotely access and control the VM.
+
+    IIS (Internet Information Services) – A web server needed to run osTicket.
+
+    MySQL – A database system that stores osTicket data.
+
+    PHP – A programming language required to run osTicket.
+
+    Root Directory – The main folder where osTicket files are stored.
+
+    Database Credentials – The username and password used to access the MySQL database.
+
+    osTicket Installer – A setup tool that helps configure osTicket on the server.
 
 - #### Step 7: Customize osTicket for IT Helpdesk Training
     Configure ticket categories (e.g., Hardware, Software, Network).
