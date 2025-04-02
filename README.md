@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/9dYCotk.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-My goal with this project is to replicate a real-world IT helpdesk environment using osTicket on an Azure VM. I want to get hands-on with a ticketing system that IT teams actually use, practice troubleshooting workflows, SLAs, and helpdesk operations, and build confidence in handling service requests—all while preparing for the CompTIA A+ certification. At this stage, I’m not just learning concepts—I’m applying them. This setup will help me think like an IT professional, work through realistic support scenarios, and sharpen the skills I’ll need when I land my first IT role<br />
+<h1>osTicket -Instalation</h1>
+This lab will initiate the process of creating a real-world IT helpdesk environment by installing osTicket on an Azure VM. The installation will set up the environment to manage users and helpdesk professionals, enabling the creation of support workflows, SLAs, and ticket management operations. This setup will serve as the foundation for preparing for the CompTIA A+ certification and building the practical skills needed for a future IT role.<br />
 
 
 <h2>Install osTicket on an Azure VM</h2>
@@ -70,7 +70,7 @@ My goal with this project is to replicate a real-world IT helpdesk environment u
 - #### Step 9: Simulate an IT Support Environment
     Submit tickets via http://your-vm-ip/osticket/.
 
-    Use the Admin Panel (/scp/) to manage and resolve tickets.
+    Use the Admin Panel to manage and resolve tickets.
 
     Analyze ticket history to identify recurring issues and resolution trends.
 
