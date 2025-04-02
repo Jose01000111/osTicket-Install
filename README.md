@@ -87,7 +87,10 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
 
     osTicket Installer – A setup tool that helps configure osTicket on the server.
 
+- #### Technology & Software
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+    Microsoft Azure (Virtual Machines/Compute)
+  
+    Remote Desktop
+  
+    Internet Information Services (IIS)
