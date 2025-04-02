@@ -23,12 +23,18 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
     Deploy the VM and wait for provisioning to complete.
 
 - #### Step 2: Connect to the VM
- https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
-    Windows: Use Remote Desktop (RDP) to log in.
+ 
+  Use Remote Desktop (RDP) to log in.
 
 - #### Step 3: Install Required Software Stack
 
-    Windows: Install IIS, MySQL, and PHP.
+[osTicket Installation Zipfile](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+
+ Install IIS, MySQL, and PHP.
+
+<p align="center">
+<img src="https://i.imgur.com/P6KaEcz.png" alt="osTicket logo"/>
+</p>
 
     Verify that the web server and database are functioning correctly.
 
@@ -38,6 +44,10 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
      Move the files to the web server’s root directory.
 
      Set correct file permissions to allow execution.
+
+<p align="center">
+<img src="https://i.imgur.com/mMY8PWg.png" alt="osTicket logo"/>
+</p>
 
 - #### Step 5: Set Up the MySQL Database
     Create a MySQL database for osTicket.
