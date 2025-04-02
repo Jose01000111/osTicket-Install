@@ -66,12 +66,12 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
 <img src="https://i.imgur.com/cSQfPCU.png" alt="osTicket logo"/>
 </p>
 
-    Complete the installation and remove the setup directory for security.
+    Complete the installation & setup directory for security.
 
 - #### Step 7: Customize osTicket for IT Helpdesk Training
     Configure ticket categories (e.g., Hardware, Software, Network).
 
-    Set up Service-Level Agreements (SLAs) to define response times.
+    Set up SLAs to define response times.
 
     Assign user roles (Admin, Technician, End User) for realistic workflows.
 
