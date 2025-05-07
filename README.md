@@ -53,6 +53,7 @@ I launched the osTicket installer in the browser, entered the database info, and
 ***
 
 #### Essential Terms for Installing osTicket on an Azure VM
+
     Azure VM – A virtual computer hosted on Microsoft Azure.
 
     Windows Server VM – A virtual machine running Windows Server.
