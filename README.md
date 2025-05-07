@@ -52,32 +52,32 @@ I launched the osTicket installer in the browser, entered the database info, and
 
 ***
 
-#### Essential Terms for Installing osTicket on an Azure VM
+### Essential Terms for Installing osTicket on an Azure VM
 
-    Azure VM – A virtual computer hosted on Microsoft Azure.
+#### ✅Azure VM – A virtual computer hosted on Microsoft Azure.
 
-    Windows Server VM – A virtual machine running Windows Server.
+#### ✅Windows Server VM – A virtual machine running Windows Server.
 
-    Public IP Access – Allows remote connections to the VM over the internet.
+#### ✅Public IP Access – Allows remote connections to the VM over the internet.
 
-    RDP (Remote Desktop Protocol) – A method to remotely access and control the VM.
+#### ✅RDP (Remote Desktop Protocol) – A method to remotely access and control the VM.
 
-    IIS (Internet Information Services) – A web server needed to run osTicket.
+#### ✅IIS (Internet Information Services) – A web server needed to run osTicket.
 
-    MySQL – A database system that stores osTicket data.
+#### ✅MySQL – A database system that stores osTicket data.
 
-    PHP – A programming language required to run osTicket.
+#### ✅PHP – A programming language required to run osTicket.
 
-    Root Directory – The main folder where osTicket files are stored.
+#### ✅Root Directory – The main folder where osTicket files are stored.
 
-    Database Credentials – The username and password used to access the MySQL database.
+#### ✅Database Credentials – The username and password used to access the MySQL database.
 
-    osTicket Installer – A setup tool that helps configure osTicket on the server.
+#### ✅osTicket Installer – A setup tool that helps configure osTicket on the server.
 
-#### Technology & Software
+### Technology & Software
 
-    Microsoft Azure (Virtual Machines/Compute)
+#### ✅Microsoft Azure (Virtual Machines/Compute)
   
-    Remote Desktop
+#### ✅Remote Desktop
   
-    Internet Information Services (IIS)
+#### ✅Internet Information Services (IIS)
