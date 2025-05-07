@@ -24,6 +24,7 @@ Once the VM was ready, I connected to it using Remote Desktop Protocol (RDP) to 
 
 #### Step 3: Install Required Software Stack
 I installed IIS, MySQL, and PHP on the server to prepare it for osTicket. I verified that both the web server and the database were running properly.
+
 [osTicket Installation Zipfile](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
 
 <p align="center">
