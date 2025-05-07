@@ -40,6 +40,8 @@ I downloaded the latest osTicket release and moved it to the web root directory.
 <img src="https://i.imgur.com/mMY8PWg.png" alt="osTicket logo"/>
 </p>
 
+***
+
 #### Step 5: Set Up the MySQL Database
 I created a new MySQL database for osTicket and added a user with the correct permissions to manage it.
 I launched the osTicket installer in the browser, entered the database info, and created the admin account to finish the setup.
