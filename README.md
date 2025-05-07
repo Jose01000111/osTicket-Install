@@ -44,17 +44,14 @@ I installed IIS, MySQL, and PHP on the server to prepare it for osTicket. I veri
 </p>
 
 - #### Step 5: Set Up the MySQL Database
-    Create a MySQL database for osTicket.
-
-    Create a database user with the necessary privileges.
-
-- #### Step 6: Run the osTicket Installer
-
-    Enter database credentials and set up an admin account.
+I created a new MySQL database for osTicket and added a user with the correct permissions to manage it.
+I launched the osTicket installer in the browser, entered the database info, and created the admin account to finish the setup.
 
 <p align="center">
 <img src="https://i.imgur.com/cSQfPCU.png" alt="osTicket logo"/>
 </p>
+
+***
 
 - #### Essential Terms for Installing osTicket on an Azure VM
     Azure VM – A virtual computer hosted on Microsoft Azure.
