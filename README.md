@@ -8,39 +8,29 @@ This lab will initiate the process of creating a real-world IT helpdesk environm
 
 <h2>Install osTicket on an Azure VM</h2>
 
-- ### Steps to Install osTicket on an Azure VM
+- ### Install osTicket on an Azure VM
+
 - ####  Step 1: Deploy an Azure Virtual Machine
-    Open Azure and navigate to Virtual Machines. 
-
-    Create Windows Server VM.
-
-    Select a Standard_B2s instance or better.
-
-    Enable public IP access for remote connection.
-
-    Choose RDP (Windows) for authentication.
-
-    Deploy the VM and wait for provisioning to complete.
+ I logged into Azure, went to Virtual Machines, and deployed a Windows Server VM using a Standard_B2s instance. I enabled public IP access and chose RDP for remote authentication. I waited for the VM to finish provisioning.
 
 - #### Step 2: Connect to the VM
- 
-  Use Remote Desktop (RDP) to log in.
+Once the VM was ready, I connected to it using Remote Desktop Protocol (RDP) to access the server environment.
 
 <p align="center">
 <img src="https://i.imgur.com/sPQWrFD.png" alt="osTicket logo"/>
 </p>
 
+***
+
 - #### Step 3: Install Required Software Stack
-
+I installed IIS, MySQL, and PHP on the server to prepare it for osTicket. I verified that both the web server and the database were running properly.
 [osTicket Installation Zipfile](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
-
- Install IIS, MySQL, and PHP.
 
 <p align="center">
 <img src="https://i.imgur.com/P6KaEcz.png" alt="osTicket logo"/>
 </p>
 
-    Verify that the web server and database are functioning correctly.
+***
 
 - #### Step 4: Download and Configure osTicket
      Download the latest osTicket release.
