@@ -34,11 +34,7 @@ I installed IIS, MySQL, and PHP on the server to prepare it for osTicket. I veri
 ***
 
 #### Step 4: Download and Configure osTicket
-     Download the latest osTicket release.
-
-     Move the files to the web server’s root directory.
-
-     Set correct file permissions to allow execution.
+I downloaded the latest osTicket release and moved it to the web root directory. I set the proper file permissions to ensure the installer could run.
 
 <p align="center">
 <img src="https://i.imgur.com/mMY8PWg.png" alt="osTicket logo"/>
