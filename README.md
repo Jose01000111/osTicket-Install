@@ -49,8 +49,36 @@ I launched the osTicket installer in the browser, entered the database info, and
 <p align="center">
 <img src="https://i.imgur.com/cSQfPCU.png" alt="osTicket logo"/>
 </p>
+ 
+***
+
+## Step 6: Customize osTicket for IT Helpdesk Training
+I configured ticket categories such as Hardware, Software, and Network to organize incoming requests effectively. I then set up SLAs to establish clear expectations for response and resolution times. I assigned user roles like Admin, Technician, and End User to create a realistic workflow environment. Finally, I began logging and resolving test tickets to simulate real IT helpdesk scenarios.
+
+<p align="center">
+<img src="https://i.imgur.com/hL5NElJ.png" alt="osTicket logo"/>
+</p>
 
 ***
+
+<p align="center">
+<img src="https://i.imgur.com/BcUbygS.png" alt="osTicket logo"/>
+</p>
+
+*** 
+
+## Step 7: Simulate an IT Support Environment 
+I used ChatGPT to generate mock ticket submissions to simulate IT support scenarios. Using the Admin Panel, I managed and resolved these tickets to practice real-world troubleshooting. I also reviewed ticket history to identify recurring issues and refine our support approach.
+
+<p align="center">
+<img src="https://i.imgur.com/ba1CQKX.png" alt="osTicket logo"/>
+</p>
+
+***
+
+<p align="center">
+<img src="https://i.imgur.com/9QMDoJz.png" alt="osTicket logo"/>
+</p>
 
 ### Essential Terms for Installing osTicket on an Azure VM
 
